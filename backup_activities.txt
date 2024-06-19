@@ -1,0 +1,5 @@
+crossfit,free weight,04/02/2022,14:20
+body pump,free weight and aerobic,03/02/2023,15:00
+padel,Sport Racket,04/03/2023,16:00
+tenis,racket,20/03/2023,13:00
+fit dance,dance group,03/02/2023,13:00

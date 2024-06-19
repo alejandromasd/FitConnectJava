@@ -1,0 +1,4 @@
+alexmas44, 80.0, 12.0, 25.0, Loss Weight, manu34
+alexmas44, 70.0, 23.0, 14.0, Gain muscle mass, manu34
+alexmas44, 70.0, 23.0, 13.0, Aerobic, jess34
+manu22, 40.0, 13.0, 11.0, Gain mass, jess34

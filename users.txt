@@ -1,0 +1,7 @@
+Admin,Jose,Luis,01/01/2000,admin,admin
+Coach,jessica,martinez,04/02/1992,jess34,jesica,padel
+Member,alex,diego,04/03/1997,alexmas44,alex,gold,04/12/2015
+Coach,manuel,sanchez,04/02/1994,manu34,manuel,crossfit
+Member,carlos,manuel,02/12/1993,manu22,manu,gold,14/12/2014
+Member,luis,mas,04/03/1997,luis,luis,gold,03/04/2023
+Coach,roberto,moreno,03/02/1997,rober,rober,tenis

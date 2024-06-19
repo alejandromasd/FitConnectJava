@@ -1,0 +1,4 @@
+9822K,true
+1810K,true
+2235E,false
+8781Y,false
